@@ -1,0 +1,12 @@
+body {
+  background-image: url("https://s3.amazonaws.com/shecodesio-production/uploads/files/000/058/105/original/3d-globe.jpg?1670884458");
+}
+
+h1 {
+  color: white;
+}
+
+footer,
+footer a {
+  color: white;
+}
