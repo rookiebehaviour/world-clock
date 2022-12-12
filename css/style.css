@@ -2,6 +2,16 @@ body {
   background-image: url("https://s3.amazonaws.com/shecodesio-production/uploads/files/000/058/105/original/3d-globe.jpg?1670884458");
 }
 
+.container {
+  background: rgba(255, 255, 255, 0.2);
+  padding: 20px;
+}
+
+.app {
+  background: rgba(255, 255, 255, 0.4);
+  padding: 10px;
+}
+
 h1 {
   color: white;
 }
